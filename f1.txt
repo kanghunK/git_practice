@@ -1,1 +1,1 @@
-a
+amend f1.txt!
