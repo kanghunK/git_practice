@@ -1,1 +1,1 @@
-work f1.txt in home!
+work f1.txt
