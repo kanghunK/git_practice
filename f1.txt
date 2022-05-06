@@ -1,1 +1,1 @@
-amend f1.txt!
+work f1.txt in home!
